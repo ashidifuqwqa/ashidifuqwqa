@@ -1,0 +1,1 @@
+wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup.sh | bash
